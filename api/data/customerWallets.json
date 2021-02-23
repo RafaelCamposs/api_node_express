@@ -1,0 +1,25 @@
+{
+      "data": [
+        {
+            "id": "5da9ea674234635bdff45c02",
+            "name": "Cliente 149501",
+            "occupation": "Analista de Sistemas",
+            "gender": "male",
+            "birthDate": "1996-10-23T03:00:00Z"
+        },
+        {
+            "id": "5da9ea674234635bdff45c02",
+            "name": "Cliente 149502",
+            "occupation": "Médico",
+            "gender": "female",
+            "birthDate": "1987-10-23T03:00:00Z"
+        },
+        {
+            "id": "5da9ea674234635bdff45c02",
+            "name": "Cliente 149503",
+            "occupation": "Engenheiro",
+            "gender": "other",
+            "birthDate": "1992-10-23T03:00:00Z"
+        }
+      ]
+  }
